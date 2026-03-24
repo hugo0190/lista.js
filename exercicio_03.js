@@ -1,4 +1,4 @@
-function balancoGeral() {
+function balancoFinanceiro() {
 
     let ganho = [];
     let gasto = [];
@@ -29,4 +29,3 @@ function balancoGeral() {
 
 };
 
-//balancoGeral()

@@ -1,4 +1,4 @@
-function ordenacao(){
+function Ordenacao(){
 
     let valor = [];
     let temp = 0;
@@ -30,4 +30,3 @@ function ordenacao(){
     }
 }
 
-//ordenacao();

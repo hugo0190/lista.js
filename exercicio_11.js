@@ -1,5 +1,5 @@
 
-function folhaDescontoVariavel(){
+function FolhaPagamentoDesconto(){
 
     let salario_liquido;
     let desconto;
@@ -29,4 +29,3 @@ function folhaDescontoVariavel(){
 
 };
 
-folhaDescontoVariavel()

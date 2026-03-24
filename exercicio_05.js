@@ -1,4 +1,4 @@
-function tranformacaoNumero(){
+function   Parimpar(){
 
     let numero = 0;
 
@@ -14,4 +14,3 @@ function tranformacaoNumero(){
 
 };
 
-//tranformacaoNumero()

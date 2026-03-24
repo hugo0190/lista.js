@@ -1,4 +1,4 @@
-function verVogCons(){
+function VogalConsoante(){
 
     let vogal = [];
     let condicao = false;
@@ -31,4 +31,3 @@ function verVogCons(){
 
 };
 
-//verVogCons()

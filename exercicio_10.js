@@ -1,4 +1,4 @@
-function folhaDePagamento(){
+function FolhaPagamento(){
 
     let salario_liquido;
     let desconto;
@@ -16,4 +16,3 @@ function folhaDePagamento(){
 
 };
 
-//folhaDePagamento()

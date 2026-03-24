@@ -1,5 +1,5 @@
 
-function ordenacao(){
+function Ordenacao2Numeros(){
 
     let num_1 = 0;
     let num_2 = 0;
@@ -17,4 +17,3 @@ function ordenacao(){
 
 };
 
-//ordenacao()

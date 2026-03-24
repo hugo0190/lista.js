@@ -1,4 +1,4 @@
-function picoleteria() {
+function Picoleteria() {
 
     console.log("Escolha um sabor");
     console.log("[1] Chocolate");
@@ -57,4 +57,3 @@ function picoleteria() {
 
 };
 
-//picoleteria()
